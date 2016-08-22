@@ -1,0 +1,11 @@
+screen_name: your_screen_name
+
+token:
+  consumer_key: 'your_consumer_key'
+  consumer_secret: 'your_consumer_secret'
+  oauth_token: 'your_token'
+  oauth_token_secret: 'your_token_secret'
+
+pushover:
+  token: 'your_token'
+  user: 'your_user'
